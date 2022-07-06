@@ -1,0 +1,22 @@
+h2{
+    color:gray
+}
+*{
+    border:solid
+}
+.header{
+    background-color: rgb(212, 111, 216);
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: yellow;
+    display: flex;
+    justify-content: flex-end;
+}
